@@ -32,4 +32,3 @@ it "only prints the birthday greeting if the birthday kid 12 or younger" do
       "Timmy" => 9,
       "Sarah" => 6,	}
 end
-
