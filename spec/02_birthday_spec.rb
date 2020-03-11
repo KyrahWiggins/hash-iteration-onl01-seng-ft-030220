@@ -31,4 +31,4 @@ describe "#age_appropriate_birthday" do
 it "only prints the birthday greeting if the birthday kid 12 or younger" do
     birthday_kids = {
       "Timmy" => 9,
-      "Sarah" => 6,	      
+      "Sarah" => 6,	}
